@@ -1,2 +1,2 @@
 # SVM_Gabor_Filter
-Investigation of SVM Performance on images convovled with various Gabor Filters Vs. Unfiltered Images. SVM C Paramter Tuned via gridsearch. MNIST dataset used.
+Investigation of performance of SVM model trained on MNIST pixel intensity features vs. performance of SVM trained on Gabor filter coefficients (after MNIST images convolved with Gabor filters). SVM C Paramter Tuned via gridsearch.
